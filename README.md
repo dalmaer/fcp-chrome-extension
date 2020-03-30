@@ -34,7 +34,7 @@ This is very alpha! I haven't put the extension in the store yet, so, clone the 
 | ------ | ---------- |
 | GREEN  | < 1 second |
 | YELLOW | < 3s       |
-| RED    | 4s         |
+| RED    | > 3s       |
 
 ## Other metrics as FYI:
 
