@@ -2,7 +2,6 @@
   "name": "FCP",
   "description": "Show the First Contentful Paint (FCP) score for the given tab",
   "version": "0.3",
-  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArNbW+80WaO+UYytZvOH8QUNsetRrXCZGW269V7QSUjS2bz2Wz+luQ6CkawHQPSFbkhi4O/ku23YmUOGizHkc68hhv5MtgKV3Rg4+hJYLuI2fHuzI8S8LTIZp3DLELmkfORRC6YKQJkYTizZcNNSzfDwGOJANMXbbz4qiWXSLWxJ4DT3Hb5u2SS0J6BV7YOcu1Kw+XmkZNyL1ujBKtxaMocfOGqxvEUQt87SrrnW12XYj2p9eJoF9G6PlQ8ttV+dw8kJJ+358GefecnvNs90Df8n2uHwYfGCiSw1jvWhsgcBdqqqOmP0zVEi1a3uFE2z54p2j1DY525vaalRkrGpciwIDAQAB",
   "background": {
     "scripts": ["background.js"],
     "persistent": false
@@ -14,7 +13,7 @@
     "128": "icon-128.png"
   },
   "browser_action": {
-    "default_icon": "icon-on.png",
+    "default_icon": "icon-grey.png",
     "default_popup": "popup.html",
     "default_title": "Click to see the scorecard for FCP from your browsing"
   },
