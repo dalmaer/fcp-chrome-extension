@@ -4,6 +4,8 @@
 
 This Chrome extension tracks the [FCP (First Contentful Paint)](https://web.dev/fcp/ "web.dev article on FCP") metric for pages that you visit as you browse the Web.
 
+There is now a great ![Core Web Vitals extension](https://github.com/GoogleChrome/web-vitals-extension/ "Core Web Vitals Extension") that I recommend!
+
 NOTE: There are other extensions for key metrics such as:
 
 - [LCP (Largest Contentful Paint)](https://github.com/dalmaer/lcp-chrome-extension)
